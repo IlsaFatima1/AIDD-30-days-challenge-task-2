@@ -33,7 +33,7 @@ Specification-Driven development is liye problems ko rok deta hai kyun ke hum us
 
 Architecture-first thinking developer ka role change kar deti hai woh code writer se orchestrator ban janta hai yani AI ko guide karta hai use kaam kis tarh karna hai. Human structure decide karta hai, manual thinking, high level desicion leta hai AI simply coding ko handle karta hai
 
-### Explain why developers must think in layers and systems instead of raw code.
+### - Explain why developers must think in layers and systems instead of raw code.
 
 AIDD ke daur mein system ko raw code ki bajaye 3-layer architecture par design kiya jata hai: Intent → Agents → Model.
 Developer ko layers aur system-level thinking adopt karni padti hai, kyun ke AI agents multiple workflows ko connect karte hai. Agar tum system ko layer-based structure ke saath design nahi karte, to AI ka collaboration break ho jata hai
@@ -44,6 +44,28 @@ Developer ko layers aur system-level thinking adopt karni padti hai, kyun ke AI 
 ### Task: Using any AI CLI tool, generate a 1-paragraph specification for an email validation function.
 
 ![Screenshot](Uploading 3.png…])
+
+
+## 📁Part C — Multiple Choice Questions
+
+#### 1. What is the main purpose of Spec-Driven Development?
+ B. Clear requirements before coding begins ✅
+
+
+#### 2. What is the biggest mindset shift in AI-Driven Development?
+ B. Thinking in systems and clear instructions ✅
+
+
+#### 3. Biggest failure of Vibe Coding?
+ B. Architecture becomes hard to extend ✅
+
+
+#### 4. Main advantage of using AI CLI agents (like Gemini CLI)?
+ B. Handle repetitive tasks so dev focuses on design & problem-solving ✅
+
+
+#### 5. What defines an M-Shaped Developer?
+ C. Deep skills in multiple related domains ✅
 
 
 
