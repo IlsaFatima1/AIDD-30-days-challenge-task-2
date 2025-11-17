@@ -43,7 +43,7 @@ Developer ko layers aur system-level thinking adopt karni padti hai, kyun ke AI 
 
 ### Task: Using any AI CLI tool, generate a 1-paragraph specification for an email validation function.
 
-![Screenshot](Uploading 3.png…])
+![Screenshot](https://raw.githubusercontent.com/IlsaFatima1/AIDD-30-days-challenge-task-2/refs/heads/main/3.png)
 
 
 ## 📁Part C — Multiple Choice Questions
